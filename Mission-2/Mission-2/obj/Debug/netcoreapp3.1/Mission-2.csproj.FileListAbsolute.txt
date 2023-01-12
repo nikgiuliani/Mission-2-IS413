@@ -1,0 +1,13 @@
+/Users/nikgiuliani/projects/is-413/Mission-2/Mission-2/bin/Debug/netcoreapp3.1/Mission-2.deps.json
+/Users/nikgiuliani/projects/is-413/Mission-2/Mission-2/bin/Debug/netcoreapp3.1/Mission-2.runtimeconfig.json
+/Users/nikgiuliani/projects/is-413/Mission-2/Mission-2/bin/Debug/netcoreapp3.1/Mission-2.runtimeconfig.dev.json
+/Users/nikgiuliani/projects/is-413/Mission-2/Mission-2/bin/Debug/netcoreapp3.1/Mission-2.dll
+/Users/nikgiuliani/projects/is-413/Mission-2/Mission-2/bin/Debug/netcoreapp3.1/Mission-2.pdb
+/Users/nikgiuliani/projects/is-413/Mission-2/Mission-2/obj/Debug/netcoreapp3.1/Mission-2.csproj.AssemblyReference.cache
+/Users/nikgiuliani/projects/is-413/Mission-2/Mission-2/obj/Debug/netcoreapp3.1/Mission-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikgiuliani/projects/is-413/Mission-2/Mission-2/obj/Debug/netcoreapp3.1/Mission-2.AssemblyInfoInputs.cache
+/Users/nikgiuliani/projects/is-413/Mission-2/Mission-2/obj/Debug/netcoreapp3.1/Mission-2.AssemblyInfo.cs
+/Users/nikgiuliani/projects/is-413/Mission-2/Mission-2/obj/Debug/netcoreapp3.1/Mission-2.csproj.CoreCompileInputs.cache
+/Users/nikgiuliani/projects/is-413/Mission-2/Mission-2/obj/Debug/netcoreapp3.1/Mission-2.dll
+/Users/nikgiuliani/projects/is-413/Mission-2/Mission-2/obj/Debug/netcoreapp3.1/Mission-2.pdb
+/Users/nikgiuliani/projects/is-413/Mission-2/Mission-2/obj/Debug/netcoreapp3.1/Mission-2.genruntimeconfig.cache
