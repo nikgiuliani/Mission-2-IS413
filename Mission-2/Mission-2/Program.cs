@@ -14,8 +14,9 @@ namespace Mission_2
             for (int i = 0; i < numRolls; i++)
             {
                 Random rnd = new Random();
-                int rndDiceNum = rnd.Next(2, 13);
-                diceRoller.RollDice(rndDiceNum);
+                int rndDiceNum1 = rnd.Next(1, 7);
+                int rndDiceNum2 = rnd.Next(1, 7);
+                diceRoller.RollDice(rndDiceNum1 + rndDiceNum2);
             }
 
             Console.WriteLine("DICE ROLLING SIMULATION RESULTS");
